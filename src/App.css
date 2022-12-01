@@ -111,7 +111,7 @@ table {
     transition: .2s ease-in-out;
   }
   
- .card__overlay .datainput{
+ .card__overlay .datainput,.datainput_meeting{
 
   mix-blend-mode: normal;
   margin: 0rem 0rem 00rem 2rem;
